@@ -1,7 +1,7 @@
 # Simon Dice
 
 ## Ejemplo en vivo
-- [¡Pruebalo!](https://mloaiza98.github.io/Drums/)
+- [¡Pruebalo!](https://mloaiza98.github.io/Simon-Game/)
 
 ## Descripción 📑
 
